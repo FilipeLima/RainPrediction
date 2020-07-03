@@ -7,6 +7,11 @@ This script unzips *Mecicoes_convencionais.zip* into ```data```. Imports *chuvas
 
 ### Boxplot
 
+![alt text](https://github.com/FilipeLima/RainPrediction/raw/master/boxplot.png "Boxplot")
+
 ### Scatter plot
 
+![alt text](https://github.com/FilipeLima/RainPrediction/raw/master/pointplot.png "Scatter plot")
+
 ### Barplot
+![alt text](https://github.com/FilipeLima/RainPrediction/raw/master/barplot.png "Barplot")
